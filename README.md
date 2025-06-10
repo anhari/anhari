@@ -21,8 +21,8 @@ Staff Software Engineer with 10+ years of experience and a proven track record f
 - 🧪 Introduced JavaScript testing with Vitest, FactoryBot strategies for testable DB views  
 - ✨ Built brand identity, marketing site, and design system for Patch Monkey from scratch  
 
-## 🏗️ Projects
-Coming soon!
+### 🏗️ Projects
+_Coming soon!_
 
 ## Connect with Me
 - 🌐 Website → [fundefined.dev](https://fundefined.dev)
