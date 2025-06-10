@@ -25,6 +25,6 @@ Staff Software Engineer with 10+ years of experience and a proven track record f
 Coming soon!
 
 ## Connect with Me
-🌐 Website → [fundefined.dev](https://fundefined.dev)
-💼 LinkedIn → [@michaelanhari](https://linkedin.com/in/michaelanhari)
-🎥 YouTube → [@fundefined](https://youtube.com/@fundefined)
+- 🌐 Website → [fundefined.dev](https://fundefined.dev)
+- 💼 LinkedIn → [@michaelanhari](https://linkedin.com/in/michaelanhari)
+- 🎥 YouTube → [@fundefined](https://youtube.com/@fundefined)
