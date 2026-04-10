@@ -14,17 +14,8 @@ Staff Software Engineer with 10+ years of experience and a proven track record f
 * **Soft skills:** Leadership • Mentorship • Communication • Remote Collaboration
 * **Design skills:** Figma, Storybook
 
-### 💫 Recent Highlights
-- 📊 Co-led development of Walmart’s real-time analytics system for cattle supply chain management  
-- 🤝 Collaborated on a scalable ELT pipeline and datawarehouse powering industry-leading dashboards  
-- 🔐 Designed 2FA + SMS systems, custom command palettes, accounting engines, and more  
-- 🧪 Introduced JavaScript testing with Vitest, FactoryBot strategies for testable DB views  
-- ✨ Built brand identity, marketing site, and design system for Patch Monkey from scratch  
-
 ### 🏗️ Projects
 _Coming soon!_
 
 ## Connect with Me
-- 🌐 Website → [fundefined.dev](https://fundefined.dev)
 - 💼 LinkedIn → [@michaelanhari](https://linkedin.com/in/michaelanhari)
-- 🎥 YouTube → [@fundefined](https://youtube.com/@fundefined)
